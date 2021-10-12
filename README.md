@@ -1,7 +1,7 @@
 # **React Portfolio**
 
 ## Description 
-A portfolio page using React for the University of Denver Bootcamp
+A portfolio page using React for the University of Denver Bootcamp. Displays education, work experience, skills, projects, and contact references.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -16,6 +16,7 @@ Start application with 'npm start'
 Used to display experience, projects, and skills to potential employers.
 ## Contributors
 Jack LeMasters
+'ivy555' on medium.com: Referenced their article, "Build Portfolio Website in Reactjs"
 ## Repository
 - [Project Repo](github.com/jacklemasters/portfolio-react)
 ## GitHub
