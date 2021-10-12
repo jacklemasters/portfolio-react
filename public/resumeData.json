@@ -3,7 +3,7 @@
       "name":"Jackson LeMasters",
       "description":"Web Developer",
       "image":"profilepic.jpeg",
-      "bio":"My name is Jackson LeMasters. I am currently a student at the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. While still fairly new to web development, I believe I am a quick learner and I have acquired a passion for building applications and websites. I enjoy using HTML, CSS and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MySQL, MongoDB, Bootstrap and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. At the end of October, I will have credentials as a Full Stack Developer, and am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
+      "bio":"My name is Jackson LeMasters. I am currently a graduate from the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. While still fairly new to web development, I believe I am a quick learner and I have acquired a passion for building applications and websites. I enjoy using HTML, CSS and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MySQL, MongoDB, Bootstrap and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. At the end of October, I will have credentials as a Full Stack Developer, and am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
       "contactmessage":"Please contact me through email, LinkedIn, or this form!",
       "email": "jacksonlemasters@outlook.com",
       "phone": "516-477-4952",
@@ -42,10 +42,10 @@
         },
         {
           "school":"University of Northern Colorado",
-          "gpa": "3 GPA",
-          "degree":"4 years of History Secondary Education, no degree",
-          "graduated":"",
-          "description":"Coursework Included: Researching historical topics and writing research papers"
+          "gpa": "",
+          "degree":"4 years of History Secondary Education",
+          "graduated":"Did not graduate",
+          "description":"Coursework Included: Researching historical topics and writing research papers. Researching mainly on European history, would commonly be required to read books, reports, other reasearch papers, to help build a powerful argument in my research assignments."
         }
       ],
       "work":[
@@ -125,7 +125,7 @@
           "title":"Progressive Budject Tracker",
           "shorttitle": "Progressive Budjet",
           "category":"Bootcamp Assignment",
-          "image":"budgetTracker1.PNG",
+          "image":"",
           "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
           "url":"https://lemasters-budget-app.herokuapp.com/",
           "repo":"https://github.com/jacklemasters/Progressive_Budget"
@@ -143,7 +143,7 @@
           "title":"Weather Dashboard",
           "shorttitle": "Weather Dashboard",
           "category":"Bootcamp Assignment",
-          "image":"weatherDashboard.png",
+          "image":"",
           "info":"A weather dashboard built using Javascript. This applicaiton can be used to check the weather in any given city.",
           "url":"https://jacklemasters.github.io/Weather-Dashboard/",
           "repo":"https://github.com/jacklemasters/Weather-Dashboard"
