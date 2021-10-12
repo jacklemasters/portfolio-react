@@ -31,7 +31,7 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               <h1><span>Get In Touch!</span></h1>
 
             </div>
 
@@ -88,7 +88,7 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					<h4>Contact Information and location</h4>
+					<h4>Contact Information and Location</h4>
 					<p className="address">
 						{name}<br />
 						<span>{phone}</span><br />
