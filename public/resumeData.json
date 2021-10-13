@@ -99,7 +99,7 @@
           "shorttitle": "Resume Builder",
           "category":"Bootcamp Group Project",
           "image":"",
-          "info":"Application to help build quick and customized resumes. Built using React, Express, GraphQL, Material-UI, and Mongoose",
+          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose.",
           "url":"",
           "repo":"https://github.com/atommielcarek/project-3.1"
         },
@@ -144,7 +144,7 @@
           "shorttitle": "Weather Dashboard",
           "category":"Bootcamp Assignment",
           "image":"",
-          "info":"A weather dashboard built using Javascript. This applicaiton can be used to check the weather in any given city.",
+          "info":"A weather dashboard built using Javascript. This applicaiton can be used to check the weather in any given city. Input zipcode to get a weather report.",
           "url":"https://jacklemasters.github.io/Weather-Dashboard/",
           "repo":"https://github.com/jacklemasters/Weather-Dashboard"
         },
@@ -153,7 +153,7 @@
           "shorttitle": "Fitness Tracker",
           "category":"Bootcamp Assignment",
           "image":"",
-          "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts. This application is deployed on Heroku.",
+          "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts.",
           "url":"https://github.com/jacklemasters/fitness-tracker",
           "repo":"https://github.com/jacklemasters/fitness-tracker"
         }
