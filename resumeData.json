@@ -74,7 +74,7 @@
           "level":"65%"
         },
         {
-          "name":"MySQL / Sequelize",
+          "name":"MySQL",
           "level":"25%"
         },
         {
@@ -99,7 +99,7 @@
           "shorttitle": "Resume Builder",
           "category":"Bootcamp Group Project",
           "image":"",
-          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project.",
+          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project, with my groupmates focusing on backend.",
           "url":"https://github.com/atommielcarek/project-3.1",
           "repo":"https://github.com/atommielcarek/project-3.1"
         },
