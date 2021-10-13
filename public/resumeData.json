@@ -122,8 +122,8 @@
           "repo":"https://github.com/jacklemasters/Employee-tracker"
         },
         {
-          "title":"Progressive Budject Tracker",
-          "shorttitle": "Progressive Budjet",
+          "title":"Progressive Budget Tracker",
+          "shorttitle": "Progressive Budget",
           "category":"Bootcamp Assignment",
           "image":"",
           "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
