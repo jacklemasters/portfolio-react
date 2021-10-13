@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-//import ParticlesBg  from "particles-bg";
 
 class Header extends Component {
-  render() {
+   render() {
 
     if(this.props.data){
       var project = this.props.data.project;
@@ -13,9 +12,8 @@ class Header extends Component {
       var networks= this.props.data.social.map(function(network){
       return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
-    }
-
-    return (
+      }
+      return (
       <header id="home">
       
       <nav id="nav-wrap">
@@ -49,8 +47,8 @@ class Header extends Component {
       </p>
 
    </header>
-    );
-  }
+   );
+}
 }
 
 export default Header;

@@ -70,8 +70,8 @@
           "level":"85%"
         },
         {
-          "name":"NodeJS / ExpressJS",
-          "level":"70%"
+          "name":"NodeJS",
+          "level":"65%"
         },
         {
           "name":"MySQL / Sequelize",
@@ -104,7 +104,7 @@
           "repo":"https://github.com/atommielcarek/project-3.1"
         },
         {
-          "title":"node.js README Generator",
+          "title":"Node.js README Generator",
           "shorttitle": "README Generator",
           "category":"Bootcamp Assignment",
           "image":"",
@@ -117,7 +117,7 @@
           "shorttitle": "Employee Tracker",
           "category":"Bootcamp Assignment",
           "image":"",
-          "info":"An employee tracker built using MySQL, running in Node.js",
+          "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
           "url":"https://github.com/jacklemasters/Employee-tracker",
           "repo":"https://github.com/jacklemasters/Employee-tracker"
         },
@@ -154,7 +154,7 @@
           "category":"Bootcamp Assignment",
           "image":"",
           "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts. This application is deployed on Heroku.",
-          "url":"https://tutchings.github.io/blackjack/",
+          "url":"https://github.com/jacklemasters/fitness-tracker",
           "repo":"https://github.com/jacklemasters/fitness-tracker"
         }
       ]
