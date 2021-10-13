@@ -1,10 +1,10 @@
 {
     "main": {
       "name":"Jackson LeMasters",
-      "description":"Web Developer",
+      "description":"Full Stack Web Developer",
       "image":"profilepic.jpeg",
       "bio":"My name is Jackson LeMasters. I am currently a graduate from the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. While still fairly new to web development, I believe I am a quick learner and I have acquired a passion for building applications and websites. I enjoy using HTML, CSS and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MySQL, MongoDB, Bootstrap and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. At the end of October, I will have credentials as a Full Stack Developer, and am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
-      "contactmessage":"Please contact me through email, LinkedIn, or this form!",
+      "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
       "email": "jacksonlemasters@outlook.com",
       "phone": "516-477-4952",
       "github":"https://github.com/jacklemasters",
@@ -43,8 +43,8 @@
         {
           "school":"University of Northern Colorado",
           "gpa": "",
-          "degree":"4 years of History Secondary Education",
-          "graduated":"Did not graduate",
+          "degree":"4 years: History Secondary Education",
+          "graduated":"N/A",
           "description":"Coursework Included: Researching historical topics and writing research papers. Researching mainly on European history, would commonly be required to read books, reports, other reasearch papers, to help build a powerful argument in my research assignments."
         }
       ],
@@ -53,7 +53,7 @@
           "company":"InterNACHI",
           "title":"Web Developer",
           "years":"August 2021 - Present",
-          "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help."
+          "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States."
         }
       ],
       "skills":[
