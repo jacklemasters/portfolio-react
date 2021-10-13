@@ -31,7 +31,7 @@
       ]
     },
     "resume":{
-      "skillmessage":"* Each skill level is weighted with 100% being fully confident, 0% being no experience.",
+      "skillmessage":"* Each skill level is weighted with 100% being fully confident, 0% being no experience/no confidence.",
       "education":[
         {
           "school":"University of Denver",
@@ -43,7 +43,7 @@
         {
           "school":"University of Northern Colorado",
           "gpa": "",
-          "degree":"4 years: History Secondary Education",
+          "degree":"4 years: History Secondary Education, Political Sciences",
           "graduated":"N/A",
           "description":"Coursework Included: Researching historical topics and writing research papers. Researching mainly on European history, would commonly be required to read books, reports, other reasearch papers, to help build a powerful argument in my research assignments."
         }
@@ -90,7 +90,7 @@
           "shorttitle": "Work Day Scheduler",
           "category":"Bootcamp Assignment",
           "image":"",
-          "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
+          "info":"Work day scheduler application built using HTML, CSS, jQuery",
           "url":"https://jacklemasters.github.io/Work-Day-Scheduler/",
           "repo":"https://github.com/jacklemasters/Work-Day-Scheduler"
         },
@@ -99,8 +99,8 @@
           "shorttitle": "Resume Builder",
           "category":"Bootcamp Group Project",
           "image":"",
-          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose.",
-          "url":"",
+          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project.",
+          "url":"https://github.com/atommielcarek/project-3.1",
           "repo":"https://github.com/atommielcarek/project-3.1"
         },
         {
