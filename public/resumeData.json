@@ -50,10 +50,16 @@
       ],
       "work":[
         {
-          "company":"InterNACHI",
+          "company":"Freelance",
           "title":"Web Developer",
+          "years":"November 2021 - Present",
+          "description":"Utilizing Upwork and other freelancing sites, performed Web Development work for clients. Developed Wordpress/CMS sites, React.js, JavaScript, and HTML/CSS."
+        },
+        {
+          "company":"InterNACHI",
+          "title":"Full Stack Web Developer",
           "years":"August 2021 - November 2021",
-          "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States."
+          "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States. 3 month contract."
         }
       ],
       "skills":[
@@ -89,7 +95,7 @@
           "title":"Work Day Scheduler",
           "shorttitle": "Work Day Scheduler",
           "category":"Bootcamp Assignment",
-          "image":"workday.png",
+          "image":"./images/workday.png",
           "info":"Work day scheduler application built using HTML, CSS, jQuery",
           "url":"https://jacklemasters.github.io/Work-Day-Scheduler/",
           "repo":"https://github.com/jacklemasters/Work-Day-Scheduler"
@@ -98,7 +104,7 @@
           "title":"React Resume Builder",
           "shorttitle": "Resume Builder",
           "category":"Bootcamp Group Project",
-          "image":"resumebuilder.png",
+          "image":"./images/resumebuilder.png",
           "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project.",
           "url":"https://github.com/atommielcarek/project-3.1",
           "repo":"https://github.com/atommielcarek/project-3.1"
@@ -107,7 +113,7 @@
           "title":"Node.js README Generator",
           "shorttitle": "README Generator",
           "category":"Bootcamp Assignment",
-          "image":"code1.jpeg",
+          "image":"/images/code1.jpeg",
           "info":"A README.md generator created using Node.js",
           "url":"https://github.com/jacklemasters/README_Generator",
           "repo":"https://github.com/jacklemasters/README_Generator"
@@ -134,7 +140,7 @@
           "title":"CMS Tech Blog",
           "shorttitle": "Tech Blog",
           "category":"Bootcamp Assignment",
-          "image":"techblog.png",
+          "image":"./images/techblog.png",
           "info":"A CMS style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other posts as well. Following the MVC paradigm, using handlebars, and sequelize.",
           "url":"https://techblog-lemasters.herokuapp.com/",
           "repo":"https://github.com/jacklemasters/tech-blog"
@@ -152,7 +158,7 @@
           "title":"Fitness Tracker Application",
           "shorttitle": "Fitness Tracker",
           "category":"Bootcamp Assignment",
-          "image":"",
+          "image":"https://i.imgur.com/8cZdEIC.png",
           "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts.",
           "url":"https://github.com/jacklemasters/fitness-tracker",
           "repo":"https://github.com/jacklemasters/fitness-tracker"
