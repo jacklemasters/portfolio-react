@@ -3,14 +3,16 @@
       "name":"Jackson LeMasters",
       "description":"Full Stack Web Developer",
       "image":"profilepic.jpeg",
-      "bio":"My name is Jackson LeMasters. I am currently a graduate from the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. While still fairly new to web development, I believe I am a quick learner and I have acquired a passion for building applications and websites. I enjoy using HTML, CSS and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MySQL, MongoDB, Bootstrap and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. At the end of October, I will have credentials as a Full Stack Developer, and am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
+      "bio":"My name is Jackson LeMasters. I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development.
+
+      I worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, using Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
       "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
       "email": "jacksonlemasters@outlook.com",
       "phone": "516-477-4952",
       "github":"https://github.com/jacklemasters",
       "project":"https://www.linkedin.com/in/jacksonlemasters/",
       "address":{
-        "street":"(Your Street)",
+        "street":"",
         "city":"Berthoud",
         "state":"CO",
         "zip": "80513"
@@ -20,7 +22,7 @@
       "social":[
         {
           "name":"github",
-          "url":"https://github.com/jacklemasters",
+          "url":"https://github.com/tf-jlemasters",
           "className":"fa fa-github"
         },
         {
@@ -50,9 +52,15 @@
       ],
       "work":[
         {
-          "company":"Freelance",
+          "company":"Trace First",
           "title":"Web Developer",
           "years":"November 2021 - Present",
+          "description":"Full Stack engineering utilizing MySQL, Ruby on Rails, and jQuery to build and maintain software for tracking animal health."
+        },
+        {
+          "company":"Freelance",
+          "title":"Web Developer",
+          "years":"November 2021 - March 2022",
           "description":"Utilizing Upwork and other freelancing sites, performed Web Development work for clients. Developed Wordpress/CMS sites, React.js, JavaScript, and HTML/CSS."
         },
         {
@@ -65,7 +73,15 @@
       "skills":[
         {
           "name":"HTML / CSS / Bootstrap",
+          "level":"95%"
+        },
+        {
+          "name":"Ruby",
           "level":"80%"
+        },
+        {
+          "name":"Ruby on Rails",
+          "level":"60%"
         },
         {
           "name":"ReactJS",
@@ -73,7 +89,7 @@
         },
         {
           "name":"Terminal / Git",
-          "level":"85%"
+          "level":"80%"
         },
         {
           "name":"NodeJS",
@@ -81,24 +97,24 @@
         },
         {
           "name":"MySQL / Sequelize",
-          "level":"25%"
+          "level":"60%"
         },
         {
           "name":"JavaScript / jQuery",
-          "level":"70%"
+          "level":"65%"
         }
       ]
     },
     "portfolio":{
       "projects": [
         {
-          "title":"Work Day Scheduler",
-          "shorttitle": "Work Day Scheduler",
-          "category":"Bootcamp Assignment",
+          "title":"Friends CRUD Application",
+          "shorttitle": "Friends App",
+          "category":"Ruby on Rails",
           "image":"./images/workday.png",
-          "info":"Work day scheduler application built using HTML, CSS, jQuery",
-          "url":"https://jacklemasters.github.io/Work-Day-Scheduler/",
-          "repo":"https://github.com/jacklemasters/Work-Day-Scheduler"
+          "info":"A friend list application created to help learn Ruby on Rails. Create, update, view, and delete friends to and from the database.",
+          "url":"https://github.com/tf-jlemasters/friend-app",
+          "repo":"https://github.com/tf-jlemasters/friend-app"
         },
         {
           "title":"React Resume Builder",
@@ -146,13 +162,13 @@
           "repo":"https://github.com/jacklemasters/tech-blog"
         },
         {
-          "title":"Weather Dashboard",
-          "shorttitle": "Weather Dashboard",
-          "category":"Bootcamp Assignment",
+          "title":"Turbolinks ToDo App; Rails 7",
+          "shorttitle": "Turbolinks ToDo App",
+          "category":"Ruby on Rails",
           "image":"",
-          "info":"A weather dashboard built using Javascript. This applicaiton can be used to check the weather in any given city. Input zipcode to get a weather report.",
-          "url":"https://jacklemasters.github.io/Weather-Dashboard/",
-          "repo":"https://github.com/jacklemasters/Weather-Dashboard"
+          "info":"A todo app created with the intention of learning how to utilize turbo streams and tailwind in Rails 7.",
+          "url":"https://github.com/tf-jlemasters/turbo-todos",
+          "repo":"https://github.com/tf-jlemasters/turbo-todos"
         },
         {
           "title":"Fitness Tracker Application",
