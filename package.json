@@ -1,6 +1,6 @@
 {
-  "name": "react-portfolio",
-  "homepage": "https://jacklemasters.github.io/portfolio-react",
+  "name": "jlemasters-react",
+  "homepage": "https://tf-jlemasters.github.io/jlemasters-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
