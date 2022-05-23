@@ -1,7 +1,7 @@
 # **React Portfolio**
-Deployment: https://jacklemasters.github.io/portfolio-react/<br>
-Screenshots: https://imgur.com/a/jN4tx9G</br>
-LinkedIn: https://www.linkedin.com/in/jacksonlemasters/
+[Deployment](https://tf-jlemasters.github.io/jlemasters-react/)<br>
+[Screenshots](https://imgur.com/a/jN4tx9G)</br>
+[LinkedIn](https://www.linkedin.com/in/jacksonlemasters/)
 ## Description 
 A portfolio page using React for the University of Denver Bootcamp. Displays education, work experience, skills, projects, and contact references.
 ## Table of contents
