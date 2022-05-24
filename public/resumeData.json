@@ -109,7 +109,7 @@
         "title":"Friends CRUD Application",
         "shorttitle": "Friends App",
         "category":"Ruby on Rails",
-        "image":"./images/workday.png",
+        "image":"/images/friend-rails.png",
         "info":"A friend list application created to help learn Ruby on Rails. Create, update, view, and delete friends to and from the database.",
         "url":"https://github.com/tf-jlemasters/friend-app",
         "repo":"https://github.com/tf-jlemasters/friend-app"
@@ -136,7 +136,7 @@
         "title":"MySQL Employee Tracker",
         "shorttitle": "Employee Tracker",
         "category":"Bootcamp Assignment",
-        "image":"",
+        "image":"https://laurenthinoul.com/wp-content/uploads/2016/05/Sample-Programming-Code.jpg",
         "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
         "url":"https://github.com/jacklemasters/Employee-tracker",
         "repo":"https://github.com/jacklemasters/Employee-tracker"
@@ -145,7 +145,7 @@
         "title":"Progressive Budget Tracker",
         "shorttitle": "Progressive Budget",
         "category":"Bootcamp Assignment",
-        "image":"",
+        "image":"https://media.istockphoto.com/photos/java-code-picture-id862615830?k=6&m=862615830&s=170667a&w=0&h=O2DxxTV-GKQ1ib5cjeYdR1JmT-TCalnPvsGkabXFh7o=",
         "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
         "url":"https://lemasters-budget-app.herokuapp.com/",
         "repo":"https://github.com/jacklemasters/Progressive_Budget"
@@ -163,7 +163,7 @@
         "title":"Turbolinks ToDo App; Rails 7",
         "shorttitle": "Turbolinks ToDo App",
         "category":"Ruby on Rails",
-        "image":"",
+        "image":"/images/turbo-todo.png",
         "info":"A todo app created with the intention of learning how to utilize turbo streams and tailwind in Rails 7.",
         "url":"https://github.com/tf-jlemasters/turbo-todos",
         "repo":"https://github.com/tf-jlemasters/turbo-todos"
