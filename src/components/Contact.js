@@ -74,7 +74,7 @@ class Contact extends Component {
 						{name}<br />
 						<span>{phone}</span><br />
                      <span>{email}</span><br />
-                     {city}, {state} (Very willing to relocate!)<br />
+                     {city}, {state} (Willing to relocate!)<br />
 					</p>
 				</div>
                <div className="widget widget_tweets">
