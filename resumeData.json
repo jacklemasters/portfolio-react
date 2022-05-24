@@ -1,162 +1,182 @@
 {
-    "main": {
-      "name":"Jackson LeMasters",
-      "description":"Full Stack Web Developer",
-      "image":"profilepic.jpeg",
-      "bio":"My name is Jackson LeMasters. I am currently a graduate from the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. While still fairly new to web development, I believe I am a quick learner and I have acquired a passion for building applications and websites. I enjoy using HTML, CSS and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MySQL, MongoDB, Bootstrap and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. At the end of October, I will have credentials as a Full Stack Developer, and am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
-      "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
-      "email": "jacksonlemasters@outlook.com",
-      "phone": "516-477-4952",
-      "github":"https://github.com/jacklemasters",
-      "project":"https://www.linkedin.com/in/jacksonlemasters/",
-      "address":{
-        "street":"(Your Street)",
-        "city":"Berthoud",
-        "state":"CO",
-        "zip": "80513"
+  "main": {
+    "name":"Jackson LeMasters",
+    "description":"Full Stack Web Developer",
+    "image":"profilepic.jpeg",
+    "bio":"My name is Jackson LeMasters. I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. I worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, using Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
+    "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
+    "email": "jacksonlemasters@outlook.com",
+    "phone": "516-477-4952",
+    "github":"https://github.com/tf-jlemasters",
+    "project":"https://www.linkedin.com/in/jacksonlemasters/",
+    "address":{
+      "street":"",
+      "city":"Berthoud",
+      "state":"CO",
+      "zip": "80513"
+    },
+    "website": "https://jacklemasters.com",
+    "resumedownload":"https://docs.google.com/document/d/1b0wn-6HRlEBjRO6O4ckA0Xo_pJKnv1nY/edit?usp=sharing&ouid=112399803332539358908&rtpof=true&sd=true",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/tf-jlemasters",
+        "className":"fa fa-github"
       },
-      "website": "https://jacklemasters.com",
-      "resumedownload":"https://drive.google.com/file/d/1paPCY1TfgZOAwwP7eW72973Zpgt1xdf-/view?usp=sharing",
-      "social":[
-        {
-          "name":"github",
-          "url":"https://github.com/jacklemasters",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/jacksonlemasters/",
-          "className":"fa fa-linkedin"
-        }
-      ]
-    },
-    "resume":{
-      "skillmessage":"* Each skill level is weighted with 100% being fully confident, 0% being no experience/no confidence.",
-      "education":[
-        {
-          "school":"University of Denver",
-          "gpa": "",
-          "degree":"Coding Bootcamp Certificate",
-          "graduated":"October 2021",
-          "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
-        },
-        {
-          "school":"University of Northern Colorado",
-          "gpa": "",
-          "degree":"4 years: History Secondary Education, Political Sciences",
-          "graduated":"",
-          "description":"Coursework Included: Researching historical topics and writing research papers. Researching mainly on European history, would commonly be required to read books, reports, other reasearch papers, to help build a powerful argument in my research assignments."
-        }
-      ],
-      "work":[
-        {
-          "company":"InterNACHI",
-          "title":"Web Developer",
-          "years":"August 2021 - Present",
-          "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States."
-        }
-      ],
-      "skills":[
-        {
-          "name":"HTML / CSS / Bootstrap",
-          "level":"80%"
-        },
-        {
-          "name":"ReactJS",
-          "level":"40%"
-        },
-        {
-          "name":"Terminal / Git",
-          "level":"85%"
-        },
-        {
-          "name":"NodeJS",
-          "level":"65%"
-        },
-        {
-          "name":"MySQL",
-          "level":"25%"
-        },
-        {
-          "name":"JavaScript / jQuery",
-          "level":"70%"
-        }
-      ]
-    },
-    "portfolio":{
-      "projects": [
-        {
-          "title":"Work Day Scheduler",
-          "shorttitle": "Work Day Scheduler",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"Work day scheduler application built using HTML, CSS, jQuery",
-          "url":"https://jacklemasters.github.io/Work-Day-Scheduler/",
-          "repo":"https://github.com/jacklemasters/Work-Day-Scheduler"
-        },
-        {
-          "title":"React Resume Builder",
-          "shorttitle": "Resume Builder",
-          "category":"Bootcamp Group Project",
-          "image":"",
-          "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project, with my groupmates focusing on backend.",
-          "url":"https://github.com/atommielcarek/project-3.1",
-          "repo":"https://github.com/atommielcarek/project-3.1"
-        },
-        {
-          "title":"Node.js README Generator",
-          "shorttitle": "README Generator",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"A README.md generator created using Node.js",
-          "url":"https://github.com/jacklemasters/README_Generator",
-          "repo":"https://github.com/jacklemasters/README_Generator"
-        },
-        {
-          "title":"MySQL Employee Tracker",
-          "shorttitle": "Employee Tracker",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
-          "url":"https://github.com/jacklemasters/Employee-tracker",
-          "repo":"https://github.com/jacklemasters/Employee-tracker"
-        },
-        {
-          "title":"Progressive Budget Tracker",
-          "shorttitle": "Progressive Budget",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
-          "url":"https://lemasters-budget-app.herokuapp.com/",
-          "repo":"https://github.com/jacklemasters/Progressive_Budget"
-        },
-        {
-          "title":"CMS Tech Blog",
-          "shorttitle": "Tech Blog",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"A CMS style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other posts as well. Following the MVC paradigm, using handlebars, and sequelize.",
-          "url":"https://techblog-lemasters.herokuapp.com/",
-          "repo":"https://github.com/jacklemasters/tech-blog"
-        },
-        {
-          "title":"Weather Dashboard",
-          "shorttitle": "Weather Dashboard",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"A weather dashboard built using Javascript. This applicaiton can be used to check the weather in any given city. Input zipcode to get a weather report.",
-          "url":"https://jacklemasters.github.io/Weather-Dashboard/",
-          "repo":"https://github.com/jacklemasters/Weather-Dashboard"
-        },
-        {
-          "title":"Fitness Tracker Application",
-          "shorttitle": "Fitness Tracker",
-          "category":"Bootcamp Assignment",
-          "image":"",
-          "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts.",
-          "url":"https://github.com/jacklemasters/fitness-tracker",
-          "repo":"https://github.com/jacklemasters/fitness-tracker"
-        }
-      ]
-    }
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jacksonlemasters/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted with 100% being fully confident, 0% being no experience/no confidence.",
+    "education":[
+      {
+        "school":"University of Denver",
+        "gpa": "",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"October 2021",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"University of Northern Colorado",
+        "gpa": "",
+        "degree":"4 years: History Secondary Education, Political Sciences",
+        "graduated":"N/A",
+        "description":"Coursework Included: Researching historical topics and writing research papers. Researching mainly on European history, would commonly be required to read books, reports, other reasearch papers, to help build a powerful argument in my research assignments."
+      }
+    ],
+    "work":[
+      {
+        "company":"Trace First",
+        "title":"Junior Software Engineer",
+        "years":"November 2021 - Present",
+        "description":"Full Stack engineering utilizing MySQL, Ruby on Rails, and jQuery to build and maintain software for tracking animal health."
+      },
+      {
+        "company":"Freelance",
+        "title":"Full Stack Web Developer / DevOps",
+        "years":"November 2021 - March 2022",
+        "description":"Utilizing Upwork and other freelancing sites, performed Web Development work for clients. Developed Wordpress/CMS sites, React.js, JavaScript, and HTML/CSS. Also deployed and maintaining sites, including first deployments to new domains, and setting up SSL certificates."
+      },
+      {
+        "company":"InterNACHI",
+        "title":"Web Developer",
+        "years":"August 2021 - November 2021",
+        "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States. 3 month contract."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"95%"
+      },
+      {
+        "name":"Ruby",
+        "level":"80%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"40%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL / PostgreSQL",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Friends CRUD Application",
+        "shorttitle": "Friends App",
+        "category":"Ruby on Rails",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/friend-app",
+        "info":"A friend list application created to help learn Ruby on Rails. Create, update, view, and delete friends to and from the database.",
+        "url":"https://github.com/tf-jlemasters/friend-app",
+        "repo":"https://github.com/tf-jlemasters/friend-app"
+      },
+      {
+        "title":"React Resume Builder",
+        "shorttitle": "Resume Builder",
+        "category":"Bootcamp Group Project",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/React-Resume-Builder",
+        "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project.",
+        "url":"https://github.com/atommielcarek/project-3.1",
+        "repo":"https://github.com/atommielcarek/project-3.1"
+      },
+      {
+        "title":"Node.js README Generator",
+        "shorttitle": "README Generator",
+        "category":"Bootcamp Assignment",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/readme_generator",
+        "info":"A README.md generator created using Node.js",
+        "url":"https://github.com/jacklemasters/README_Generator",
+        "repo":"https://github.com/jacklemasters/README_Generator"
+      },
+      {
+        "title":"MySQL Employee Tracker",
+        "shorttitle": "Employee Tracker",
+        "category":"Bootcamp Assignment",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/Employee-tracker",
+        "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
+        "url":"https://github.com/jacklemasters/Employee-tracker",
+        "repo":"https://github.com/jacklemasters/Employee-tracker"
+      },
+      {
+        "title":"Progressive Budget Tracker",
+        "shorttitle": "Progressive Budget",
+        "category":"Bootcamp Assignment",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/Progressive_Budget",
+        "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
+        "url":"https://lemasters-budget-app.herokuapp.com/",
+        "repo":"https://github.com/jacklemasters/Progressive_Budget"
+      },
+      {
+        "title":"CMS Tech Blog",
+        "shorttitle": "Tech Blog",
+        "category":"Bootcamp Assignment",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/tech-blog",
+        "info":"A CMS style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other posts as well. Following the MVC paradigm, using handlebars, and sequelize.",
+        "url":"https://techblog-lemasters.herokuapp.com/",
+        "repo":"https://github.com/jacklemasters/tech-blog"
+      },
+      {
+        "title":"Turbolinks ToDo App; Rails 7",
+        "shorttitle": "Turbolinks ToDo App",
+        "category":"Ruby on Rails",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/turbo-todos",
+        "info":"A todo app created with the intention of learning how to utilize turbo streams and tailwind in Rails 7.",
+        "url":"https://github.com/tf-jlemasters/turbo-todos",
+        "repo":"https://github.com/tf-jlemasters/turbo-todos"
+      },
+      {
+        "title":"Fitness Tracker Application",
+        "shorttitle": "Fitness Tracker",
+        "category":"Bootcamp Assignment",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/fitness-tracker",
+        "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts.",
+        "url":"https://github.com/jacklemasters/fitness-tracker",
+        "repo":"https://github.com/jacklemasters/fitness-tracker"
+      }
+    ]
   }
+}
