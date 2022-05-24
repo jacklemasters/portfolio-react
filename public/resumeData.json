@@ -57,13 +57,13 @@
       },
       {
         "company":"Freelance",
-        "title":"Web Developer",
+        "title":"Full Stack Web Developer / DevOps",
         "years":"November 2021 - March 2022",
-        "description":"Utilizing Upwork and other freelancing sites, performed Web Development work for clients. Developed Wordpress/CMS sites, React.js, JavaScript, and HTML/CSS."
+        "description":"Utilizing Upwork and other freelancing sites, performed Web Development work for clients. Developed Wordpress/CMS sites, React.js, JavaScript, and HTML/CSS. Also deployed and maintaining sites, including first deployments to new domains, and setting up SSL certificates."
       },
       {
         "company":"InterNACHI",
-        "title":"Full Stack Web Developer",
+        "title":"Web Developer",
         "years":"August 2021 - November 2021",
         "description":"Create and maintain Wordpress website and plugins. Research and develop content for websites, and provide general IT help. Main Project: Immigration Dashboard website, helping individuals immigrate to the United States. 3 month contract."
       }
@@ -109,7 +109,7 @@
         "title":"Friends CRUD Application",
         "shorttitle": "Friends App",
         "category":"Ruby on Rails",
-        "image":"/images/friend-rails.png",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/friend-app",
         "info":"A friend list application created to help learn Ruby on Rails. Create, update, view, and delete friends to and from the database.",
         "url":"https://github.com/tf-jlemasters/friend-app",
         "repo":"https://github.com/tf-jlemasters/friend-app"
@@ -118,7 +118,7 @@
         "title":"React Resume Builder",
         "shorttitle": "Resume Builder",
         "category":"Bootcamp Group Project",
-        "image":"./images/resumebuilder.png",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/React-Resume-Builder",
         "info":"Application to help build quick and customized resumes. Create an account, log in, and add your information necessary for a resume. Built using React, Express, GraphQL, Material-UI, and Mongoose. Personally focused on the front end aspect of the project.",
         "url":"https://github.com/atommielcarek/project-3.1",
         "repo":"https://github.com/atommielcarek/project-3.1"
@@ -127,7 +127,7 @@
         "title":"Node.js README Generator",
         "shorttitle": "README Generator",
         "category":"Bootcamp Assignment",
-        "image":"/images/code1.jpeg",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/readme_generator",
         "info":"A README.md generator created using Node.js",
         "url":"https://github.com/jacklemasters/README_Generator",
         "repo":"https://github.com/jacklemasters/README_Generator"
@@ -136,7 +136,7 @@
         "title":"MySQL Employee Tracker",
         "shorttitle": "Employee Tracker",
         "category":"Bootcamp Assignment",
-        "image":"https://laurenthinoul.com/wp-content/uploads/2016/05/Sample-Programming-Code.jpg",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/Employe-tracker",
         "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
         "url":"https://github.com/jacklemasters/Employee-tracker",
         "repo":"https://github.com/jacklemasters/Employee-tracker"
@@ -145,7 +145,7 @@
         "title":"Progressive Budget Tracker",
         "shorttitle": "Progressive Budget",
         "category":"Bootcamp Assignment",
-        "image":"https://media.istockphoto.com/photos/java-code-picture-id862615830?k=6&m=862615830&s=170667a&w=0&h=O2DxxTV-GKQ1ib5cjeYdR1JmT-TCalnPvsGkabXFh7o=",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/Progressive_Budget",
         "info":"An application that allows you to track your deposits and withdrawals whether or not you are connected to the internet.",
         "url":"https://lemasters-budget-app.herokuapp.com/",
         "repo":"https://github.com/jacklemasters/Progressive_Budget"
@@ -154,7 +154,7 @@
         "title":"CMS Tech Blog",
         "shorttitle": "Tech Blog",
         "category":"Bootcamp Assignment",
-        "image":"./images/techblog.png",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/tech-blog",
         "info":"A CMS style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other posts as well. Following the MVC paradigm, using handlebars, and sequelize.",
         "url":"https://techblog-lemasters.herokuapp.com/",
         "repo":"https://github.com/jacklemasters/tech-blog"
@@ -163,7 +163,7 @@
         "title":"Turbolinks ToDo App; Rails 7",
         "shorttitle": "Turbolinks ToDo App",
         "category":"Ruby on Rails",
-        "image":"/images/turbo-todo.png",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/turbo-todos",
         "info":"A todo app created with the intention of learning how to utilize turbo streams and tailwind in Rails 7.",
         "url":"https://github.com/tf-jlemasters/turbo-todos",
         "repo":"https://github.com/tf-jlemasters/turbo-todos"
@@ -172,7 +172,7 @@
         "title":"Fitness Tracker Application",
         "shorttitle": "Fitness Tracker",
         "category":"Bootcamp Assignment",
-        "image":"https://i.imgur.com/8cZdEIC.png",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/tf-jlemasters/fitness-tracker",
         "info":"A fitness tracker application built using NoSQL, Mongoose, and MongoDB. Use this application to keep track of your exercises and workouts.",
         "url":"https://github.com/jacklemasters/fitness-tracker",
         "repo":"https://github.com/jacklemasters/fitness-tracker"
