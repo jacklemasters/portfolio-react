@@ -3,7 +3,7 @@
     "name":"Jackson LeMasters",
     "description":"Full Stack Web Developer",
     "image":"profilepic.jpeg",
-    "bio":"My name is Jackson LeMasters, and I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working towards a history degree, working part time jobs to get through college. The COVID pandemic changed that plan, and subsequently led me to explore a career in web development. I have worked on a contract position, some freelance gigs, and eventually began working at Trace First as a Junior Software Engineer, utilizing Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. Working professionally, I hope to gain skills that will allow me to utilize my knowledge of programming, while gaining the real-world experience necessary to grow personally and professionally.",
+    "bio":"My name is Jackson LeMasters, and I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working towards a history degree, working part time jobs to get through college. The COVID pandemic changed that plan, and subsequently led me to explore a career in web development. I have worked on a contract position, some freelance gigs, and eventually began working at Trace First as a Junior Software Engineer, utilizing Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, Bootstrap, and React when coding my projects. However, I also have experience with Node.js, Express.js, HAML/HTML, CSS, JavaScript, Git, Github, MongoDB, TailwindCSS and jQuery. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. Working professionally, I hope to gain skills that will allow me to utilize my knowledge of programming, while gaining the real-world experience necessary to grow personally and professionally.",
     "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
     "email": "jacksonlemasters@outlook.com",
     "phone": "516-477-4952",
@@ -53,7 +53,7 @@
         "company":"Trace First",
         "title":"Junior Software Engineer",
         "years":"November 2021 - Present",
-        "description":"Full Stack engineering utilizing MySQL, Ruby on Rails, and jQuery to build and maintain software for tracking animal health."
+        "description":"Full Stack engineering utilizing MySQL, Ruby on Rails, HAML, Bootstrap, and jQuery to build and maintain software for tracking animal health."
       },
       {
         "company":"Freelance",
