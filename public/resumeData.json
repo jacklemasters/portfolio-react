@@ -136,7 +136,7 @@
         "title":"MySQL Employee Tracker",
         "shorttitle": "Employee Tracker",
         "category":"Bootcamp Assignment",
-        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/Employe-tracker",
+        "image":"https://opengraph.githubassets.com/8e48d34d09cab4434b870638a4878c87db17b9bb3fa887948e706771db2357f4/jacklemasters/Employee-tracker",
         "info":"An employee tracker built using MySQL, running in Node.js. Add employees to MySQL database and view current employees.",
         "url":"https://github.com/jacklemasters/Employee-tracker",
         "repo":"https://github.com/jacklemasters/Employee-tracker"
