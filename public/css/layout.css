@@ -94,6 +94,13 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
+header .github-btn {
+   display: inline-block;
+   margin: 0 15px;
+}
+header .button-icon {
+   margin-right: 8px;
+}
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
