@@ -1,5 +1,5 @@
 # **React Portfolio**
-[Deployment](https://tf-jlemasters.github.io/jlemasters-react/)<br>
+[Deployment](https://www.jacklemasters.com/)<br>
 [Screenshots](https://imgur.com/a/jN4tx9G)</br>
 [LinkedIn](https://www.linkedin.com/in/jacksonlemasters/)
 ## Description 
@@ -20,9 +20,9 @@ Used to display experience, projects, and skills to potential employers.
 Jack LeMasters
 'ivy555' on medium.com: Referenced their article, "Build Portfolio Website in Reactjs"
 ## Repository
-- [Project Repo](github.com/jacklemasters/portfolio-react)
+- [Project Repo](github.com/tf-jlemasters/jlemasters-react)
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
 - Jackson LeMasters
-- [GitHub Profile](https://github.com/jacklemasters)
+- [GitHub Profile](https://github.com/tf-jlemasters)
 
