@@ -33,11 +33,11 @@ class Header extends Component {
       
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>{description}.</h3>
+            <h3>{description}</h3>
             <hr />
             <ul className="social">
-               <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin"></i>LinkedIn</a>
-               <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin button-icon"></i>LinkedIn</a>
+               <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github button-icon"></i>Github</a>
             </ul>
          </div>
       </div>
