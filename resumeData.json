@@ -2,7 +2,7 @@
   "main": {
     "name":"Jackson LeMasters",
     "description":"Full Stack Web Developer",
-    "image":"profilepic.jpeg",
+    "image":"profilepic2.jpg",
     "bio":"My name is Jackson LeMasters. I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. I worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, using Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
     "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
     "email": "jacksonlemasters@outlook.com",
