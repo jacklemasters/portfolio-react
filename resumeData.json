@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Jackson LeMasters",
+    "name":"Jack LeMasters",
     "description":"Full Stack Web Developer",
     "image":"profilepic2.jpg",
-    "bio":"My name is Jackson LeMasters. I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, working part time jobs to get through college. COVID changed that plan and subsequently led me to explore a career in web development. I worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, using Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am currently searching for a job that will allow me to utilize my skills, while gaining the real-world experience necessary to grow personally and professionally.",
+    "bio":"My name is Jack LeMaster, and I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, yet COVID changed that plan and subsequently led me to explore a career in web development. I have worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, utilizing Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am ambitious to gain more real-world experience!",
     "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
     "email": "jacksonlemasters@outlook.com",
     "phone": "516-477-4952",
@@ -16,7 +16,7 @@
       "zip": "80513"
     },
     "website": "https://jacklemasters.com",
-    "resumedownload":"https://docs.google.com/document/d/1b0wn-6HRlEBjRO6O4ckA0Xo_pJKnv1nY/edit?usp=sharing&ouid=112399803332539358908&rtpof=true&sd=true",
+    "resumedownload":"https://drive.google.com/file/d/18jE8tGbeo5x2ASH1M7T9fjAc_AG7qRrE/view?usp=sharing",
     "social":[
       {
         "name":"github",
@@ -95,11 +95,11 @@
       },
       {
         "name":"MySQL / PostgreSQL",
-        "level":"60%"
+        "level":"75%"
       },
       {
         "name":"JavaScript / jQuery",
-        "level":"65%"
+        "level":"60%"
       }
     ]
   },
