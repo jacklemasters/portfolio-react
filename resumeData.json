@@ -6,7 +6,7 @@
     "bio":"My name is Jackson LeMasters, and I am a graduate of the University of Denver’s Full Stack Developer Bootcamp. Previously, I was a student at University of Northern Colorado working toward a history degree, yet COVID changed that plan and subsequently led me to explore a career in web development. I have worked on a contract position and some freelance gigs for the first few months of my career, and eventually began working at Trace First as a Junior Software Engineer, utilizing Ruby on Rails and MySQL. I enjoy using Ruby on Rails, MySQL, and JavaScript, however I also have experience with Node.js, Express.js, Git, Github, MongoDB, Bootstrap, TailwindCSS and React. I realize being an experienced web developer encompasses a need for continued learning, and I look forward to the journey ahead. I am ambitious to gain more real-world experience!",
     "contactmessage":"Please contact me through email, LinkedIn, a phone-call, or this form!",
     "email": "jacksonlemasters@outlook.com",
-    "phone": "516-477-4952",
+    "phone": "",
     "github":"https://github.com/tf-jlemasters",
     "project":"https://www.linkedin.com/in/jacksonlemasters/",
     "address":{
@@ -51,7 +51,7 @@
     "work":[
       {
         "company":"Trace First",
-        "title":"Junior Software Engineer",
+        "title":"Software Engineer",
         "years":"November 2021 - Present",
         "description":"Full Stack engineering utilizing MySQL, Ruby on Rails, and jQuery to build and maintain software for tracking animal health."
       },
